@@ -6,7 +6,7 @@ blank="\e[39m"
 echo -e $mwv "რადიო სამოყვარულო ლიცენზიის გამოცდის ბილეთები"
 echo -e $mwv ""
 echo -e $mwv "სწორი პასუხების ფერებით მოსანიშნად გაწერე (true)"
-echo -en $mwv "აკრიფე (${wtl}true/false${mwv})>"
+echo -en $mwv "აკრიფე (${wtl}*true/false${mwv})>"
 read q
 clear
 
